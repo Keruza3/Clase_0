@@ -1,0 +1,4 @@
+GIT
+
+Git init (se crea un repositorio).
+Git status (se ve la info del repositorio).
