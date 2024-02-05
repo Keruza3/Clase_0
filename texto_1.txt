@@ -6,4 +6,6 @@ Git add(pasar el archivo al area de seguimiento).
 Git rm/mv (las otras opciones remove y move)
 Git commit (es la foto/captura del archivo que elegimos, dejando un mensaje)
 Git commit -m (un mensaje representativo del commit)
-git push origin master (Sube los commits al remoto)
+Git push origin master (Sube los commits al remoto)
+Git fetch (trae los cambios al commit)
+Git clone/pull (si quiero traer todo)
